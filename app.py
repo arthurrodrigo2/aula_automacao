@@ -21,3 +21,6 @@ for i in range(14):
     auto.press("tab")
 
 auto.press("enter")
+
+# gerar executável: instalar a biblioteca 'cx_Freeze'
+# comando para gerar o executável: cxfreeze app.py --target-dir nome-pasta
